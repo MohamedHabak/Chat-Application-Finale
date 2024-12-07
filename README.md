@@ -32,4 +32,4 @@ A Python-based secure chat application that implements end-to-end encryption for
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-   cd secure-chat-system
+
